@@ -110,10 +110,9 @@ Discord badges are epic-looking achievements to make your profile look cool. The
 
 # Tag Icons
 
-Discord has a select number of tag icons that server administrators can set for their server tag, these icons can vary from animals, to plants, to random cool designs! Changing a server's tag icon won't unequip the server tag from users. <br>
-There's a total of 30 selectable tags, with 20 being from badge packs.
+Discord has a select number of tag icons that server administrators can set for their server tag, these icons can vary from animals, to plants, to random cool designs! Changing a server's tag icon won't unequip the server tag from users. There's a total of 30 selectable tags, with 20 being from badge packs.
 
-**Badge Pack Icons (3+ Boosts and Purchased Separately)**
+**Badge Pack Icons (3+ Boosts and purchased separately)**
 | 1                                   | 2                                   | 3                                   | 4                                   | 5                                   |
 | ----------------------------------- | ----------------------------------- | ----------------------------------- | ----------------------------------- | ----------------------------------- |
 | <img src="/assets/guilds/41.svg" /> | <img src="/assets/guilds/40.svg" /> | <img src="/assets/guilds/39.svg" /> | <img src="/assets/guilds/38.svg" /> | <img src="/assets/guilds/37.svg" /> |
@@ -121,7 +120,7 @@ There's a total of 30 selectable tags, with 20 being from badge packs.
 | <img src="/assets/guilds/31.svg" /> | <img src="/assets/guilds/30.svg" /> | <img src="/assets/guilds/29.svg" /> | <img src="/assets/guilds/28.svg" /> | <img src="/assets/guilds/27.svg" /> |
 | <img src="/assets/guilds/26.svg" /> | <img src="/assets/guilds/25.svg" /> | <img src="/assets/guilds/24.svg" /> | <img src="/assets/guilds/23.svg" /> | <img src="/assets/guilds/22.svg" /> |
 
-**Free Tag Icons (Free with Server Tags Perk)**
+**Free Tag Icons (Free with Server Tags perk)**
 | 1                                   | 2                                   | 3                                   | 4                                   | 5                                   |
 | ----------------------------------- | ----------------------------------- | ----------------------------------- | ----------------------------------- | ----------------------------------- | 
 | <img src="/assets/guilds/21.svg" /> | <img src="/assets/guilds/20.svg" /> | <img src="/assets/guilds/19.svg" /> | <img src="/assets/guilds/18.svg" /> | <img src="/assets/guilds/17.svg" /> |
