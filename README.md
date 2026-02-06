@@ -110,10 +110,12 @@ Discord badges are epic-looking achievements to make your profile look cool. The
 
 # Tag Icons
 
-These are all the Tag Icons that exist, Discord currently only lets you pick from a few of these. Server owners can customize and assign them to their server. There is a total of 21!
+These are all the Tag Icons that exist, Discord currently only lets you pick from a few of these. Server owners can customize and assign them to their server. There is a total of 41!
 
 | 1                                   | 2                                   | 3                                   | 4                                   | 5                                   |
 | ----------------------------------- | ----------------------------------- | ----------------------------------- | ----------------------------------- | ----------------------------------- |
+| <img src="/assets/guilds/41.svg" /> | <img src="/assets/guilds/40.svg" /> | <img src="/assets/guilds/39.svg" /> | <img src="/assets/guilds/38.svg" /> | <img src="/assets/guilds/37.svg" /> |
+| <img src="/assets/guilds/36.svg" /> | <img src="/assets/guilds/35.svg" /> | <img src="/assets/guilds/34.svg" /> | <img src="/assets/guilds/33.svg" /> | <img src="/assets/guilds/32.svg" /> |
 | <img src="/assets/guilds/31.svg" /> | <img src="/assets/guilds/30.svg" /> | <img src="/assets/guilds/29.svg" /> | <img src="/assets/guilds/28.svg" /> | <img src="/assets/guilds/27.svg" /> |
 | <img src="/assets/guilds/26.svg" /> | <img src="/assets/guilds/25.svg" /> | <img src="/assets/guilds/24.svg" /> | <img src="/assets/guilds/23.svg" /> | <img src="/assets/guilds/22.svg" /> |
 | <img src="/assets/guilds/21.svg" /> | <img src="/assets/guilds/20.svg" /> | <img src="/assets/guilds/19.svg" /> | <img src="/assets/guilds/18.svg" /> | <img src="/assets/guilds/17.svg" /> |
