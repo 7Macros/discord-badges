@@ -110,7 +110,7 @@ Discord badges are epic-looking achievements to make your profile look cool. The
 
 # Tag Icons
 
-These are all the Tag Icons that exist, Discord currently only lets you pick from a few of these. Server owners can customize and assign them to their server. There is a total of 21!
+These are all the Tag Icons that exist, Discord currently only lets you pick from a few of these. Server owners can customize and assign them to their server. There is a total of 41!
 
 | 1                                   | 2                                   | 3                                   | 4                                   | 5                                   |
 | ----------------------------------- | ----------------------------------- | ----------------------------------- | ----------------------------------- | ----------------------------------- |
