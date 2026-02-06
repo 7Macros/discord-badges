@@ -112,17 +112,23 @@ Discord badges are epic-looking achievements to make your profile look cool. The
 
 These are all the Tag Icons that exist, Discord currently only lets you pick one from these for your tag. Server administrators can customize and assign them to their server. There is a total of 41!
 
+**Premium Tags (3+ Boosts and Purchased Separately)**
 | 1                                   | 2                                   | 3                                   | 4                                   | 5                                   |
 | ----------------------------------- | ----------------------------------- | ----------------------------------- | ----------------------------------- | ----------------------------------- |
 | <img src="/assets/guilds/41.svg" /> | <img src="/assets/guilds/40.svg" /> | <img src="/assets/guilds/39.svg" /> | <img src="/assets/guilds/38.svg" /> | <img src="/assets/guilds/37.svg" /> |
 | <img src="/assets/guilds/36.svg" /> | <img src="/assets/guilds/35.svg" /> | <img src="/assets/guilds/34.svg" /> | <img src="/assets/guilds/33.svg" /> | <img src="/assets/guilds/32.svg" /> |
 | <img src="/assets/guilds/31.svg" /> | <img src="/assets/guilds/30.svg" /> | <img src="/assets/guilds/29.svg" /> | <img src="/assets/guilds/28.svg" /> | <img src="/assets/guilds/27.svg" /> |
 | <img src="/assets/guilds/26.svg" /> | <img src="/assets/guilds/25.svg" /> | <img src="/assets/guilds/24.svg" /> | <img src="/assets/guilds/23.svg" /> | <img src="/assets/guilds/22.svg" /> |
+
+**Free Tags (Free with Server Tags Perk)**
+| 1                                   | 2                                   | 3                                   | 4                                   | 5                                   |
+| ----------------------------------- | ----------------------------------- | ----------------------------------- | ----------------------------------- | ----------------------------------- | 
 | <img src="/assets/guilds/21.svg" /> | <img src="/assets/guilds/20.svg" /> | <img src="/assets/guilds/19.svg" /> | <img src="/assets/guilds/18.svg" /> | <img src="/assets/guilds/17.svg" /> |
 | <img src="/assets/guilds/16.svg" /> | <img src="/assets/guilds/15.svg" /> | <img src="/assets/guilds/14.svg" /> | <img src="/assets/guilds/13.svg" /> | <img src="/assets/guilds/12.svg" /> |
 | <img src="/assets/guilds/11.svg" /> | <img src="/assets/guilds/10.svg" /> | <img src="/assets/guilds/9.svg" />  | <img src="/assets/guilds/8.svg" />  | <img src="/assets/guilds/7.svg" />  |
 | <img src="/assets/guilds/6.svg" />  | <img src="/assets/guilds/5.svg" />  | <img src="/assets/guilds/4.svg" />  | <img src="/assets/guilds/3.svg" />  | <img src="/assets/guilds/2.svg" />  |
 | <img src="/assets/guilds/1.svg" />  |                                     |                                     |                                     |                                     |
+
 
 ## Hall of Fame
 
